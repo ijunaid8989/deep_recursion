@@ -1,21 +1,13 @@
 # Deep
 
-**TODO: Add description**
+[![N|Solid](https://avatars0.githubusercontent.com/u/13561999?s=60&v=4)](https://github.com/ijunaid8989)
 
-## Installation
+Deep is just a small assignment to fetch NPM package dependencies through all levels until the dependencies become empty.
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `go_deeper` to your list of dependencies in `mix.exs`:
+  - Httpoison
+  - Poison
+  - Recursion
 
-```elixir
-def deps do
-  [
-    {:go_deeper, "~> 0.1.0"}
-  ]
-end
-```
+# Todos
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/go_deeper](https://hexdocs.pm/go_deeper).
-
+  - Add tests for each level of method.
